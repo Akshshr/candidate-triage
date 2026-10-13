@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Candidate Triage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">AAC Clyde Space · Engineering hiring</p>
+      <h1>Candidate triage</h1>
+      <p class="sub" id="sub"></p>
+    </div>
+    <div class="controls">
+      <label>Role:
+        <select id="role"><option value="">All roles</option></select>
+      </label>
+      <button class="btn ghost" id="reset">Reset</button>
+      <button class="btn primary" id="sort">Sort Candidates</button>
+    </div>
+  </header>
+  <p class="role-info" id="role-info" hidden></p>
+
+  <main class="board">
+    <section class="panel">
+      <h2>Applicants <span class="count" id="count-pending"></span></h2>
+      <p class="status" id="status"></p>
+      <div class="list" id="pending"></div>
+    </section>
+    <section class="buckets">
+      <div class="bucket meet"><h2>Meet <span class="count" id="count-meet"></span></h2><div class="list" id="meet"></div></div>
+      <div class="bucket consider"><h2>Consider <span class="count" id="count-consider"></span></h2><div class="list" id="consider"></div></div>
+      <div class="bucket reject"><h2>Reject <span class="count" id="count-reject"></span></h2><div class="list" id="reject"></div></div>
+    </section>
+  </main>
+
+  <section class="feed" id="feed" aria-label="Jev feed" hidden>
+    <header class="feed-head">
+      <h2><span class="live" id="feed-live"></span>Jev feed</h2>
+      <p class="feed-stats" id="feed-stats"></p>
+      <button class="feed-btn" id="feed-toggle" aria-expanded="true">Hide</button>
+      <button class="feed-btn close-feed" id="feed-close" aria-label="Close feed">×</button>
+    </header>
+    <ol class="feed-list" id="feed-list"></ol>
+  </section>
+
+  <dialog id="detail"></dialog>
+  <script src="/app.js"></script>
+</body>
+</html>

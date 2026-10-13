@@ -1,0 +1,279 @@
+[
+  {
+    "id": "test-eng",
+    "title": "Test Engineer",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "Full-time on site",
+    "seniority": "Mid-level",
+    "source": "live",
+    "url": "https://hr.clarityloop.com/recruitment/recruitment-details/aac-clyde-space/27/",
+    "summary": "Join the production team to test electronic assemblies and spacecraft systems, analyse results and write test reports, working with Design Engineers to debug new and existing designs.",
+    "responsibilities": [
+      "Support spacecraft assembly and deliver hardware to standard, budget and schedule",
+      "Align test schedules with the Project Manager and project reviews",
+      "Support Design Engineers in testing and debugging current and new designs",
+      "Verify spacecraft hardware meets customer requirements",
+      "Write test reports with recommended actions, within the Quality Management System"
+    ],
+    "required": [
+      "Relevant degree or equivalent work experience",
+      "Electrical and electronic engineering principles",
+      "Reading schematics and PCB layouts to debug hardware",
+      "Battery packs, power systems, DC-DC converters",
+      "Working knowledge of test equipment",
+      "Following and writing test and evaluation plans",
+      "Health and Safety and Quality Management Systems awareness",
+      "Clear documentation and English communication"
+    ],
+    "desired": ["Python or C++ for test automation", "Space industry experience", "SME experience"],
+    "notes": "Fully on site. A Basic Disclosure check may be required."
+  },
+  {
+    "id": "embedded-sw",
+    "title": "Embedded Software Engineer",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "On site, hybrid possible",
+    "seniority": "Mid to Senior",
+    "source": "live",
+    "url": "https://hr.clarityloop.com/recruitment/recruitment-details/aac-clyde-space/155/",
+    "summary": "Own the architecture, design and implementation of embedded software and firmware for small satellites and subsystems, from drivers to encrypted communications, and improve the embedded SDLC.",
+    "responsibilities": [
+      "Architect, design and implement embedded software and firmware for new products",
+      "Improve the embedded SDLC: CI, automated testing, release management",
+      "Mentor and code-review other engineers",
+      "Lead integration, verification and validation of complex embedded systems",
+      "Resolve the hardest hardware/software integration issues with deep debugging"
+    ],
+    "required": [
+      "Embedded software experience in space or another mission or safety-critical domain",
+      "Deep C for resource-constrained real-time systems",
+      "RTOS (FreeRTOS, Zephyr) or embedded Linux kernel and drivers",
+      "ARM Cortex-M/R/A or RISC-V, SPI, I2C, UART, ADC",
+      "Reading schematics and datasheets; oscilloscopes, logic analysers, debuggers",
+      "Git, CI/CD and automated testing",
+      "Linux command line and GNU toolchain"
+    ],
+    "desired": ["GitFlow", "Environmental testing and ESA standards", "Python and Bash tooling", "Agile/Scrum", "Control algorithms on hardware", "Space industry experience"],
+    "notes": "Hybrid possible. A Basic Disclosure check may be required."
+  },
+  {
+    "id": "principal-elec",
+    "title": "Principal Electronics Engineer",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "On site, hybrid available",
+    "seniority": "Principal",
+    "source": "live",
+    "url": "https://hr.clarityloop.com/recruitment/recruitment-details/aac-clyde-space/151/",
+    "summary": "Technical authority in the Electronics team: drive definition, development, verification and qualification of spacecraft electronics and electrical architectures, and mentor the team.",
+    "responsibilities": [
+      "Act as technical authority for spacecraft electronics and electrical architecture",
+      "Lead senior design reviews, investigations, NCRs, ECNs and risk assessments",
+      "Advise on EMC, signal and power integrity, grounding, reliability, DFX",
+      "Support the Electronics Team Leader on risk, estimates and approach",
+      "Mentor engineers and improve design quality"
+    ],
+    "required": [
+      "Significant analogue/digital hardware design in high-reliability regulated environments",
+      "Design, verification, qualification and production release",
+      "EMC, reliability, manufacturability, testability, fault investigation",
+      "Spacecraft electrical interfaces: power, RF, digital, analogue, harnessing",
+      "CAN, SPI, I2C, UART, ADCs, DC/DC converters, LDOs",
+      "Reviewing schematics, PCB layouts, release packs, NCRs and ECNs",
+      "Mentoring and cross-functional technical leadership"
+    ],
+    "desired": ["Space or regulated industry", "Power, battery, RF, OBC or mixed-signal specialism", "FPGA/HDL, microcontrollers, SDR", "DFMEA, FDIR, radiation, thermal, vibration", "Altium or OrCAD", "ECSS, ESA or NASA processes"],
+    "notes": "Senior hire. A Basic Disclosure check may be required."
+  },
+  {
+    "id": "senior-systems",
+    "title": "Senior Systems Engineer",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "On site, hybrid possible",
+    "seniority": "Senior",
+    "source": "live",
+    "url": "https://hr.clarityloop.com/recruitment/recruitment-details/aac-clyde-space/142/",
+    "summary": "Technical Lead for spacecraft projects: own architecture, requirements, interfaces, budgets and verification across disciplines, and act as the key technical interface with customers.",
+    "responsibilities": [
+      "Act as Technical Lead for spacecraft projects or major work packages",
+      "Define spacecraft and mission architectures, CONOPS and product breakdown",
+      "Lead requirements definition, traceability and verification",
+      "Lead interface management and ICDs; own mass, power, data, delta-V and link budgets",
+      "Plan V&V and support AIT; resolve test anomalies",
+      "Mission and constellation analysis in STK or equivalent",
+      "Lead technical input to bids; mentor engineers"
+    ],
+    "required": [
+      "Significant systems engineering on complex multidisciplinary systems",
+      "Owned a subsystem or major work package through to verification",
+      "Proven multidisciplinary technical leadership",
+      "Architecture integrating hardware, software, payload, ground and operations",
+      "Requirements management, traceability and compliance",
+      "ICD ownership and spacecraft system budgets",
+      "V&V, spacecraft test planning and AIT support",
+      "Excellent stakeholder communication"
+    ],
+    "desired": ["Space mission delivery", "STK", "MBSE tools", "ECSS standards", "Bid and proposal experience"],
+    "notes": "Customer-facing technical leadership role."
+  },
+  {
+    "id": "sat-ops",
+    "title": "Satellite Operations Engineer",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "On site with on-call rota",
+    "seniority": "Mid-level",
+    "source": "inferred",
+    "summary": "Operate the group's in-orbit fleet, including the Sedna maritime constellation and VIREON-1, from LEOP through routine operations: pass planning, commanding, telemetry analysis and anomaly response.",
+    "responsibilities": [
+      "Plan and run ground station passes and command schedules",
+      "Monitor spacecraft health telemetry and trend subsystem performance",
+      "Lead anomaly investigations with the engineering teams",
+      "Support LEOP and commissioning of new satellites",
+      "Write and maintain flight procedures and automate routine operations"
+    ],
+    "required": [
+      "Degree in aerospace, electronics, physics or similar",
+      "Hands-on spacecraft operations or mission control experience",
+      "Understanding of LEO orbits, ADCS, power and comms subsystems",
+      "Telemetry and telecommand concepts (CCSDS or similar)",
+      "Python scripting for automation and analysis",
+      "Willingness to join an on-call rota"
+    ],
+    "desired": ["LEOP experience", "Ground station networks (KSAT, AWS Ground Station, Leaf Space)", "Flight dynamics tools such as STK or GMAT", "Linux"],
+    "notes": "Inferred from the Satellite Operations Engineer employee spotlight and the growing in-orbit fleet."
+  },
+  {
+    "id": "rf-microwave",
+    "title": "RF / Microwave Engineer",
+    "entity": "AAC Omnisys",
+    "location": "Gothenburg (Sweden)",
+    "workMode": "On site",
+    "seniority": "Mid to Senior",
+    "source": "inferred",
+    "summary": "Design and verify microwave and millimetre-wave receivers for radiometer instruments on satellite and airborne platforms, from component design to space qualification in the in-house lab.",
+    "responsibilities": [
+      "Design LNAs, mixers, filters and receiver chains for radiometers",
+      "Simulate and lay out RF circuits and waveguide components",
+      "Characterise hardware with VNAs, spectrum analysers and noise figure meters",
+      "Support space qualification and environmental testing",
+      "Document designs to ESA project standards"
+    ],
+    "required": [
+      "MSc in microwave engineering, electronics or physics",
+      "Microwave or mm-wave circuit design experience",
+      "Keysight ADS, CST or HFSS",
+      "Lab measurement: VNA, noise figure, spectrum analysis",
+      "Fluent English"
+    ],
+    "desired": ["Radiometer or radio astronomy instruments", "THz or sub-mm components", "Space qualification", "Swedish"],
+    "notes": "Inferred from AAC Omnisys' radiometer and SKA feed system work and the Technical Project Manager listing asking for microwave backgrounds."
+  },
+  {
+    "id": "mech-structures",
+    "title": "Mechanical Engineer, Spacecraft Structures",
+    "entity": "AAC Clyde Space Ltd",
+    "location": "Glasgow (Scotland, UK)",
+    "workMode": "On site, hybrid possible",
+    "seniority": "Mid-level",
+    "source": "inferred",
+    "summary": "Design and analyse structures and mechanisms for EPIC small satellite platforms and payload accommodation, through to vibration and thermal-vacuum qualification.",
+    "responsibilities": [
+      "Design primary and secondary structures, brackets and enclosures",
+      "Run structural FEA (modal, random vibration, quasi-static) and thermal analysis",
+      "Produce drawings with GD&T and manage suppliers for machined parts",
+      "Support integration, vibration and TVAC campaigns",
+      "Maintain mass budgets and mechanical ICDs"
+    ],
+    "required": [
+      "Degree in mechanical or aerospace engineering",
+      "3D CAD (SolidWorks, Creo or NX)",
+      "Structural FEA (Ansys, Nastran or Abaqus)",
+      "Design for manufacture and GD&T",
+      "Hands-on integration or test experience"
+    ],
+    "desired": ["CubeSat or small satellite structures", "Thermal analysis (ESATAN, Thermal Desktop)", "Launch environment and ECSS standards", "Deployable mechanisms"],
+    "notes": "Inferred from the Senior Mechanical Engineer spotlight and platform growth."
+  },
+  {
+    "id": "adcs-gnc",
+    "title": "ADCS / GNC Engineer",
+    "entity": "AAC Hyperion",
+    "location": "Delft (Netherlands)",
+    "workMode": "On site, hybrid possible",
+    "seniority": "Mid-level",
+    "source": "inferred",
+    "summary": "Develop attitude determination and control algorithms and support integrated ADCS products for small satellites, from simulation to flight software and on-orbit tuning.",
+    "responsibilities": [
+      "Design attitude determination and control algorithms (Kalman filters, pointing control)",
+      "Build and maintain MATLAB/Simulink or Python simulation environments",
+      "Port algorithms to embedded C and verify with hardware-in-the-loop",
+      "Calibrate sensors: star trackers, gyros, magnetometers, sun sensors",
+      "Support commissioning and in-orbit anomaly analysis"
+    ],
+    "required": [
+      "MSc in aerospace engineering, control or similar",
+      "Attitude dynamics and control theory",
+      "Kalman filtering and sensor fusion",
+      "MATLAB/Simulink or Python simulation",
+      "C or C++ for embedded deployment"
+    ],
+    "desired": ["Flight heritage on an ADCS", "HIL test benches", "Reaction wheels and magnetorquers", "Dutch not required"],
+    "notes": "Inferred from AAC Hyperion's ADCS product line."
+  },
+  {
+    "id": "ground-sw",
+    "title": "Ground Segment Software Engineer",
+    "entity": "AAC Clyde Space AB",
+    "location": "Uppsala (Sweden)",
+    "workMode": "Hybrid",
+    "seniority": "Mid to Senior",
+    "source": "inferred",
+    "summary": "Build the ground and data platform behind Space Data as a Service: mission control software, ground station integration and the pipelines that turn downlinked data into customer products.",
+    "responsibilities": [
+      "Develop mission control and scheduling services",
+      "Integrate commercial ground station networks and APIs",
+      "Build data ingestion and processing pipelines for maritime and EO products",
+      "Run services on cloud infrastructure with CI/CD and monitoring",
+      "Work with operations and data teams on tooling"
+    ],
+    "required": [
+      "Professional Python or Go backend development",
+      "Distributed systems, queues and databases",
+      "Cloud (AWS, GCP or Azure), containers and infrastructure as code",
+      "Testing, CI/CD and observability",
+      "Good English communication"
+    ],
+    "desired": ["CCSDS, telemetry and telecommand", "Ground station networks", "Geospatial data (GDAL, STAC)", "Swedish"],
+    "notes": "Inferred from the Data and Services division, Sedna and VIREON-1 data products."
+  },
+  {
+    "id": "fpga-payload",
+    "title": "FPGA Engineer, Onboard Data Processing",
+    "entity": "AAC Clyde Space AB",
+    "location": "Uppsala (Sweden)",
+    "workMode": "On site, hybrid possible",
+    "seniority": "Mid to Senior",
+    "source": "inferred",
+    "summary": "Design FPGA firmware for payload data handling and onboard processing of Earth observation imagery, working with Spacemetric's Bluestone onboard software.",
+    "responsibilities": [
+      "Develop VHDL or Verilog for payload interfaces and data handling",
+      "Implement image processing and compression pipelines on SoC FPGAs",
+      "Write testbenches and run hardware verification",
+      "Integrate with embedded Linux on Zynq-class devices",
+      "Address radiation effects with mitigation such as TMR and scrubbing"
+    ],
+    "required": [
+      "MSc in electronics or computer engineering",
+      "VHDL or Verilog with Vivado or Libero",
+      "Simulation and verification (testbenches, UVM or cocotb)",
+      "High-speed interfaces (SpaceWire, LVDS, Ethernet)",
+      "Bring-up and lab debugging"
+    ],
+    "desired": ["Radiation-tolerant FPGAs (Microchip RTG4/PolarFire, Xilinx XQR)", "Image or hyperspectral processing", "Embedded Linux on Zynq", "Swedish"],
+    "notes": "Inferred from the Spacemetric acquisition and VIREON-1 EO payload."
+  }
+]

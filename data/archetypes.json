@@ -1,0 +1,802 @@
+{
+  "test-eng-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "test-eng-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "test-eng-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "test-eng-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "test-eng-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "test-eng-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "test-eng-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "test-eng-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "test-eng-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "test-eng-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "test-eng-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "test-eng-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "test-eng-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "test-eng-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "test-eng-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "test-eng-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "test-eng-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "test-eng-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "test-eng-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "test-eng-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "embedded-sw-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "embedded-sw-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "embedded-sw-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "embedded-sw-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "embedded-sw-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "embedded-sw-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "embedded-sw-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "embedded-sw-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "embedded-sw-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "embedded-sw-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "embedded-sw-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "embedded-sw-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "embedded-sw-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "embedded-sw-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "embedded-sw-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "embedded-sw-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "embedded-sw-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "embedded-sw-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "embedded-sw-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "embedded-sw-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "principal-elec-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "principal-elec-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "principal-elec-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "principal-elec-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "principal-elec-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "principal-elec-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "principal-elec-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "principal-elec-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "principal-elec-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "principal-elec-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "principal-elec-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "principal-elec-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "principal-elec-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "principal-elec-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "principal-elec-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "principal-elec-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "principal-elec-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "principal-elec-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "principal-elec-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "principal-elec-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "senior-systems-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "senior-systems-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "senior-systems-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "senior-systems-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "senior-systems-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "senior-systems-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "senior-systems-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "senior-systems-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "senior-systems-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "senior-systems-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "senior-systems-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "senior-systems-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "senior-systems-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "senior-systems-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "senior-systems-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "senior-systems-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "senior-systems-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "senior-systems-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "senior-systems-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "senior-systems-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "sat-ops-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "sat-ops-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "sat-ops-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "sat-ops-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "sat-ops-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "sat-ops-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "sat-ops-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "sat-ops-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "sat-ops-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "sat-ops-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "sat-ops-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "sat-ops-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "sat-ops-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "sat-ops-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "sat-ops-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "sat-ops-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "sat-ops-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "sat-ops-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "sat-ops-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "sat-ops-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "rf-microwave-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "rf-microwave-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "rf-microwave-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "rf-microwave-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "rf-microwave-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "rf-microwave-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "rf-microwave-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "rf-microwave-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "rf-microwave-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "rf-microwave-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "rf-microwave-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "rf-microwave-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "rf-microwave-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "rf-microwave-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "rf-microwave-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "rf-microwave-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "rf-microwave-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "rf-microwave-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "rf-microwave-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "rf-microwave-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "mech-structures-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "mech-structures-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "mech-structures-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "mech-structures-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "mech-structures-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "mech-structures-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "mech-structures-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "mech-structures-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "mech-structures-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "mech-structures-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "mech-structures-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "mech-structures-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "mech-structures-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "mech-structures-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "mech-structures-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "mech-structures-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "mech-structures-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "mech-structures-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "mech-structures-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "mech-structures-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "adcs-gnc-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "adcs-gnc-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "adcs-gnc-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "adcs-gnc-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "adcs-gnc-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "adcs-gnc-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "adcs-gnc-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "adcs-gnc-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "adcs-gnc-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "adcs-gnc-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "adcs-gnc-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "adcs-gnc-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "adcs-gnc-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "adcs-gnc-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "adcs-gnc-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "adcs-gnc-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "adcs-gnc-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "adcs-gnc-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "adcs-gnc-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "adcs-gnc-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "ground-sw-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "ground-sw-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "ground-sw-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "ground-sw-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "ground-sw-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "ground-sw-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "ground-sw-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "ground-sw-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "ground-sw-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "ground-sw-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "ground-sw-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "ground-sw-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "ground-sw-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "ground-sw-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "ground-sw-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "ground-sw-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "ground-sw-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "ground-sw-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "ground-sw-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "ground-sw-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  },
+  "fpga-payload-01": {
+    "archetype": "Strong fit: 4-8 years at a NewSpace or small-satellite company doing almost exactly this job, lives near the role location, right to work.",
+    "expected": "meet"
+  },
+  "fpga-payload-02": {
+    "archetype": "Strong fit from an adjacent high-reliability sector (defence, avionics, automotive functional safety, medical devices), covers every required skill, no space experience, local.",
+    "expected": "meet"
+  },
+  "fpga-payload-03": {
+    "archetype": "Strong technical fit with direct space experience, currently abroad and needs visa sponsorship, says so plainly.",
+    "expected": "meet"
+  },
+  "fpga-payload-04": {
+    "archetype": "Senior engineer from a large prime (Airbus, Thales Alenia, OHB, SSTL, Saab) with deep relevant experience, used to bigger processes, keen on faster SME pace.",
+    "expected": "meet"
+  },
+  "fpga-payload-05": {
+    "archetype": "Solid mid-level engineer who meets most required skills but is clearly missing one or two of them, honest about it.",
+    "expected": "consider"
+  },
+  "fpga-payload-06": {
+    "archetype": "Recent graduate (1-2 years) from a nearby university with a CubeSat or student rocketry project relevant to the role, enthusiastic, light industry experience.",
+    "expected": "consider"
+  },
+  "fpga-payload-07": {
+    "archetype": "Career switcher from oil and gas, energy or rail with transferable hands-on skills, partial match, motivated by space.",
+    "expected": "consider"
+  },
+  "fpga-payload-08": {
+    "archetype": "Well-matched skills but the cover letter asks for fully remote work, which conflicts with the role's work mode.",
+    "expected": "consider"
+  },
+  "fpga-payload-09": {
+    "archetype": "Returner after a 2-3 year career break with strong relevant experience before it.",
+    "expected": "consider"
+  },
+  "fpga-payload-10": {
+    "archetype": "Academic: PhD or postdoc whose research is relevant to the role, little industry delivery experience.",
+    "expected": "consider"
+  },
+  "fpga-payload-11": {
+    "archetype": "Overqualified: 20+ years, previously head of department, salary expectation well above the band for this level.",
+    "expected": "consider"
+  },
+  "fpga-payload-12": {
+    "archetype": "Contractor with many 6-12 month stints, relevant tools, unclear depth or ownership.",
+    "expected": "consider"
+  },
+  "fpga-payload-13": {
+    "archetype": "Fresh international MSc graduate in aerospace with a generic CV, no projects matching the role, needs sponsorship.",
+    "expected": "reject"
+  },
+  "fpga-payload-14": {
+    "archetype": "Adjacent discipline mismatch: an engineer from a neighbouring but wrong discipline (for example web developer for embedded, mechanical for electronics) who believes skills will transfer.",
+    "expected": "reject"
+  },
+  "fpga-payload-15": {
+    "archetype": "Generic AI-written application: buzzwords, vague claims, no concrete projects, numbers or tools.",
+    "expected": "reject"
+  },
+  "fpga-payload-16": {
+    "archetype": "Mass applicant: the cover letter names a different company or a different job title by mistake.",
+    "expected": "reject"
+  },
+  "fpga-payload-17": {
+    "archetype": "Technician-level applicant (HNC/apprenticeship, hands-on lab or production work) applying for an engineer role that needs more design depth.",
+    "expected": "reject"
+  },
+  "fpga-payload-18": {
+    "archetype": "Unrelated background (sales, finance, retail, hospitality) who is passionate about space and did an online course.",
+    "expected": "reject"
+  },
+  "fpga-payload-19": {
+    "archetype": "Decent experience but in an unrelated engineering domain (for example HVAC, civil, process engineering) with little overlap.",
+    "expected": "reject"
+  },
+  "fpga-payload-20": {
+    "archetype": "Strong on paper but the application is sloppy: typos, inconsistent dates, a CV that contradicts the cover letter.",
+    "expected": "reject"
+  }
+}

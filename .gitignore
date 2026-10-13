@@ -1,0 +1,5 @@
+.env
+node_modules/
+data/.gen/
+data/gen.log
+.DS_Store
